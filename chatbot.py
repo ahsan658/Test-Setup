@@ -15,7 +15,7 @@ st.title ("Chatbot Ahsan")
 st.write ("Powered by Google API Key")
 
 #user_input = input("enter your question =")
-#output = get_chatbot_response(user_input)
+#output = getresponsefrommodel(user_input)
 
 #print(output)
 
